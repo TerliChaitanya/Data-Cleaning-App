@@ -1,0 +1,7 @@
+[theme]
+base="light"         # "dark" also works
+primaryColor="rgba(255, 75, 75, 1)"   # Accent color for buttons/slider
+backgroundColor="#f8fafaff" # App background
+secondaryBackgroundColor="#ffffffff" # Sidebar background
+textColor="#262730"   # Font color
+font="sans serif"     # Options: "sans serif", "serif", "monospace"
