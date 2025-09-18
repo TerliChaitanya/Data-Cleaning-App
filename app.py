@@ -57,12 +57,6 @@ st.markdown(
 )
 
 
-
-import streamlit as st
-import pandas as pd
-import numpy as np
-import plotly.express as px
-
 # Page Config
 st.set_page_config(page_title="🧹 Data Cleaning App", page_icon="🧼", layout="wide")
 
