@@ -56,12 +56,6 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-
-# Page Config
-st.set_page_config(page_title="🧹 Data Cleaning App", page_icon="🧼", layout="wide")
-
-
-
 # Initialize session state
 if "clean_df" not in st.session_state:
     st.session_state.clean_df = None
